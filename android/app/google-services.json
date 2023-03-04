@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77851175495",
+    "project_id": "masr-a7la-2023",
+    "storage_bucket": "masr-a7la-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77851175495:android:fbbf9719966e3bcc1b9f62",
+        "android_client_info": {
+          "package_name": "com.example.masr_a7la"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77851175495-rh24q37pda663ra8gv3mdnbg53drkd7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6oAX0OHX-7XJVEyyLoBvA5UFqro-XrwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77851175495-rh24q37pda663ra8gv3mdnbg53drkd7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
